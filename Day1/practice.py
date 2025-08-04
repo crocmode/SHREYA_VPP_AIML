@@ -1,4 +1,4 @@
-# #print("Hello world")
+print("Hello world")
 # dog="Tiger"
 # cat="Lion"
 # print("This is my dog's name:",dog)
@@ -58,10 +58,3 @@
 # print(a)
 # print(type(a))
 
-#Password Strength Calculator
-if (a==b):
-    print("Strong")
-elif(a>b):
-    print("Moderate")
-else:
-    print("Weak")
